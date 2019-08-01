@@ -1,0 +1,22 @@
+﻿placeholder,FullName,FirstName,LastName,DepartmentDesc,JobCode,JobCodeDescription,FTE,Gender,Email
+,John Doe,John,Doe,Nursing ,1004,CN I,Full Time,F,Johndoe@gmail.com
+1,Jemma A Abellar,Jemma,Abellar,Nursing ,1004,CN I,Full Time,F,AbellarJ@HSS.EDU
+2,Amanda Abrams,Amanda,Abrams,Nursing,1022,RN- Per Diem,Per Diem,F,abramsa@hss.edu
+3,Lindsey E Adams,Lindsey,Adams,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ladams28@jhu.edu
+4,Dwuda T Agosto,Dwuda,Agosto,Nursing,2008,LPN,Full Time,F,agostod@hss.edu
+5,Emily C Aguilar,Emily,Aguilar,Nursing,1004,CN I,Full Time,F,eca312@nyu.edu
+6,Richard Albright,Richard,Albright,Nursing,1004,CN I,Full Time,M,albrightr@hss.edu
+7,Bibi Alli,Bibi,Alli,Nursing,2010,Patient Care Assistant-Nursing,Part Time,F,saadialli@yahoo.com
+8,Tiffanie P Almeyda,Tiffanie,Almeyda,Nursing,2010,Patient Care Assistant,Full time,F,almeydat@hss.edu
+9,Iris E Alufohai,Iris,Alufohai,Nursing,2010,PCA,Full Time,F,alufohaii@hss.edu
+10,Stephanie Alvarado,Stephanie,Alvarado,Nursing,1004,CN I,Full Time,F,salvara28@gmail.com
+11,Elizabeth Amoroso,Elizabeth,Amoroso,Nursing,1004P,CN I,Full Time,F,conlone@hss.edu
+12,Yarleen Anavitate,Yarleen,Anavitate,Nursing,2008,LPN,Full Time,F,yanavitate@outlook.com
+13,Rose A Andrada,Rose,Andrada,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,AndradaR@HSS.EDU
+14,Oz Naseer,Oz,Naseer,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,Oz.naseer@gmail.com
+15,Sal Lazo,Sal,Lazo,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,Sal@gmail.com
+16,Blanco Magali,Blanco,Magali,Nuring,2024,LPN,Per Diem,F,magalijb107@icloud.com
+17,Contreras Linares Anthonella,Contreras,Linares Anthonella,Nurising,2036,PCA,Per Diem,F,acontreraslinarez@gmail.com
+18,Vivar Sindi,Vivar,Sindi,Nursing,2008,LPN,Full Time,M,Joana149@yahoo.com
+19,Mackenzie Nevill,Mackenzie,Nevill,Nursing,2010,PCA,Full Time,M,macintosh1597@gmail.com
+20,Adams Rachelle,Adams,Rachelle,Nursing,1022,RN - Per Diem,Per Diem,F, AdamsR@HSS.edu

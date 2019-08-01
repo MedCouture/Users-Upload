@@ -1,0 +1,528 @@
+﻿id,name,department,jobcode,jobdesc,fte,gender,email
+1, Jemma A Abellar,Nursing ,1004,CN I,Full Time,F,AbellarJ@HSS.EDU
+2, Amanda Abrams,Nursing,1022,RN- Per Diem,Per Diem,F,abramsa@hss.edu
+3, Lindsey E Adams,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ladams28@jhu.edu
+4, Dwuda T Agosto,Nursing,2008,LPN,Full Time,F,agostod@hss.edu
+5, Emily C Aguilar,Nursing,1004,CN I,Full Time,F,eca312@nyu.edu
+6, Richard Albright,Nursing,1004,CN I,Full Time,M,albrightr@hss.edu
+7, Bibi Alli,Nursing,2010,Patient Care Assistant-Nursing,Part Time,F,saadialli@yahoo.com
+8, Tiffanie P Almeyda,Nursing,2010,Patient Care Assistant,Full time,F,almeydat@hss.edu
+9, Iris E Alufohai,Nursing,2010,PCA,Full Time,F,alufohaii@hss.edu
+10, Stephanie Alvarado,Nursing,1004,CN I,Full Time,F,salvara28@gmail.com
+11, Elizabeth Amoroso,Nursing,1004P,CN I,Full Time,F,conlone@hss.edu
+12, Yarleen Anavitate,Nursing,2008,LPN,Full Time,F,yanavitate@outlook.com
+13, Rose A Andrada,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,AndradaR@HSS.EDU
+14, Luzviminda M. Angoluan,Nursing,1004,CN I,Full Time,F,AngoluanL@HSS.EDU
+15, Katelyn R Ansman,Nursing ,1004,CN I,Full Time,F,ansmank@hss.edu
+16, Hebah Arain,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,hebah.arain@rutgers.edu
+17, Shukurat A Arije,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,shukyarije@yahoo.com
+18, Stephanie L Arocho,Nursing,1004,CN I,Full Time,F,ArochoS@HSS.EDU
+19, Lyndsay M Asinelli,Nursing,1004,CN I,Full Time,F,lmasinelli@gmail.com
+20, Emily Babeuf,Nursing,1004,CN I,Full Time,F,ebabeuf@villanova.edu
+21, Joanne Baesl,Nursing,1004,CN I,Full Time,F,BaeslJ@HSS.EDU
+22, Amanda P Baisden,Nursing ,1004,CN I,Full Time,F,amanda.p.baisden@gmail.com
+23, Kaitlin A Baker,Nursing,1004P,CN I,Full Time,F,BakerKa@HSS.EDU
+24, Eric A Ball,Nursing,2010,PCA,Full Time,M,BallE@HSS.EDU
+25, Bianca Balsamo,Nursing,1004,CN I,Full Time,F,BalsamoB@HSS.EDU
+26, Karene T Baptiste,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,baptistek@hss.edu
+27, Karlene C Baptiste,Nursing ,1004,CN I,Full Time,F,baptisteka@hss.edu
+28, Marita Baragiano,Nusing,1070,Patient Care Director,Full Time,F,BaragianoM@HSS.EDU 
+29, Grijesh K Bari,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,BariG@HSS.EDU
+30, Mary Barone,Nursing,6081,"Director, Clinical Services",Full Time,F,baronem@hss.edu
+31, Gaseby Barthelemy,Nursing ,2010,Patient Care Assistant,Full Time,M,gulesb@yahoo.com
+32, Jillian Barton,Nursing,1022,RN - Per Diem,Per Diem,F,bartonj@hss.edu
+33, Tifarah N. Beauport,Nursing,2008,LPN,Full Time,F,beauportt@hss.edu
+34, Docilly A Benn,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,bennd@hss.edu
+35, Christina T Benoit,Nursing,1004,CN I,Full Time,F,benoitc@hss.edu
+36, Latoya T Benwarisingh,Nursing ,1070,Patient Care Director,Full Time,F,BenwarisinghL@HSS.EDU
+37, Danielle Bianchino,Nursing ,1004,CN III,Full Time,F,BianchinoD@HSS.EDU
+38, Lori Bierman,Nursing,1004,CN I,Full Time,F,BiermanL@HSS.EDU
+39, Tina Black,Nursing,2008,LPN,Full Time,F,blackt@hss.edu
+40, Juliana Boama,Nursing ,2010,Patient Care Assistant,Full Time,F,BoamaJ@HSS.EDU
+41, AlexiRain Bove-Domench,Nursing,2010,PCA,Full Time,F,abd3150@gmail.com
+42, Kia A Bowers,Nursing,1004,CN I,Full Time,F,bowersk@hss.edu
+43, Julianne Bowlin,Nursing,2024,LPN,Per Diem,F,julianne.bowlin@gmail.com
+44, Aileen Boyle,Nursing ,2010,Patient Care Assistant,Full Time,F,aileen.boyle16@gmail.com
+45, Catherine Bradley,Nursing,1004,CN I,Full Time,F,bradleyc@hss.edu
+46, Christina Bridgenauth,Nursing,2008,LPN,Full Time,F,christinaB81092@gmail.com
+47, Celia C Brown,Nursing,2010,PCA,Full Time,F,BrownCe@HSS.EDU
+48, Sharon Brown,Nursing,2010,Patient Care Assistant,Full time,F,brownsh@hss.edu
+49, Shentique M Brown,Nursing,2008,LPN,Full Time,F,mrsshentique_b@aol.com
+50, Trecia Brown,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,brownt@hss.edu
+51, Ayana Browne,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,brownea@hss.edu
+52, Julius T Bugante,Nursing,1022,RN,Per Diem,F,bugantej@hss.edu
+53, Jacinta Butcher,Nursing ,2010,Patient Care Assistant,Full Time,F,ButcherJ@HSS.EDU
+54, Tazeem Bux,Nursing,2010,PCA,Full Time,M,BuxT@HSS.EDU
+55, Virginia Buzea,Nursing,2010,Patient Care Assistant,Full time,F,buzeav@hss.edu
+56, Emily V Byrne,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,emily.byrne@student.fairfield.edu
+57, Carmen T Cabrera,Nursing,2010,PCA,Full Time,F,cabrerac@hss.edu
+58, Maria N Cajes,Nursing,1004,CN I,Full Time,F,CajesM@HSS.EDU
+59, Maureen Calica,Nursing,2024,LPN,Per Diem,F,maureenkay03@gmail.com
+60, Maureen K Calica,Nursing,2024,LPN,Per Diem,F,maureenkay03@gmail.com
+61, Marilyn D Calixte,Nursing,2036,PCA,Per Diem,F,calixtem@hss.edu
+62, Marilyn D Calixte,Nursing ,2008,LPN,Part Time,F,calixtem@hss.edu
+63, Johanna Camacho,Nursing,1004,CN I,Full Time,F,CamachoJ@HSS.EDU
+64, Marie M Camit,Nursing,1004,CN I,Full Time,F,CamitM@HSS.EDU
+65, Jennifer R Cangialosi,Nursing,1004,CN I,Full Time,F,cangialosij@hss.edu
+66, Althea Louisse A Cansino,Nursing,1004,CN I,Full Time,F,cansinoa@hss.edu
+67, Victoria Cardoza,Nursing,1006,CN III,Full Time,F,CardozaV@HSS.EDU
+68, Maeve Carley,Nursing ,1004,CN I,Full Time,F,mcarley@nursing.upenn.edu
+69, Ameni Carpiza,Nursing,2024,LPN,Per Diem,F,ameni_c23@yahoo.com
+70, Deenolise Carrasco,Nursing,2008,LPN,Full time,F,carrascod@hss.edu
+71, Mirlene Casimir,Nursing,2008,LPN,Full Time,F,mcasimir01@gmail.com
+72, Claudia Castillo,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,castilloc@hss.edu
+73, Maria Castillo,Nursing ,2010,Patient Care Assistant,Full Time,F,CastilloM@HSS.EDU
+74, Sandra Cayemitte,Nursing,2008,LPN,Full Time,F,cayemittes@hss.edu
+75, Robert V Cegielski,Nursing,2010,PCA,Full Time,M,rcegielski3@gmail.com
+76, Matthew Chan,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,mattchan115@gmail.com
+77, Sandy Chandirmamani,Nursing,2024,LPN,Per Diem,F,sandylopez1107@gmail.com
+78, Marie J Charpentier,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,CharpentierM@HSS.EDU
+79, Alain M Chemaly,Nursing,1004,CN I,Full Time,M,ChemalyA@HSS.EDU
+80, Kaitlyn A Chicosky,Nursing,1004,CN I,Full Time,F,kchicosky@gmail.com
+81, Crystal Choi,Nursing,1004,CN I,Full Time,F,choic@hss.edu
+82, Jaesuk Choi,Nursing ,1004,CN I,Part Time,F,ChoiJ@HSS.EDU
+83, Shanomay A Christophe,Nursing,2008,LPN,Full Time,F,christophes@hss.edu
+84, Teresa M Church,Nursing,1004,CN I,Full Time,F,ChurchT@HSS.EDU
+85, Gerlyne Civil,Nursing,2008,LPN,Part time,Female,gerlynecivil@yahoo.com
+86, Nicole R. Civil,Nursing,2024,LPN,Per Diem,F,civiln@hss.edu
+87, Jaclyn E Clark,Nursing,1004,CN I,Full Time,F,jaclynclark021@gmail.com
+88, Julia E Clark,Nursing,1004,CN I,Full Time,Female,jclark36@villanova.edu
+89, Samantha A Coghlan,Nursing,1022,RN - Per Diem,Per Diem,F,samanthacoghlan@gmail.com
+90, Chaina L Collado,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,scollado23@gmail.com
+91, Elizabeth Colman,Nursing,1006,CN III,Full Time,F,ColmanE@HSS.EDU
+92, Christian F Colon,Nursing,1004,CN I,Full Time,M,colonch@hss.edu
+93, Edna Concepcion,Nursing ,2010,Patient Care Assistant,Full Time,F,ConcepcionE@HSS.EDU
+94, Matthew W Connallon,Nursing,1004,CN I,Full Time,M,connallonm@hss.edu
+95, Wendy M. Corbi,Nursing,4028,Medical Assistant,Full Time,F,corbiw@hss.edu
+96, Rosemarie Corneja Nigos,Nursing,1022,RN - Per Diem,Per Diem,F,cornejanigosr@hss.edu
+97, Francesca A Cortese,Nursing,1004,CN I,Full Time,F,facortese11@gmail.com
+98, Angelica A Cosentino,Nursing,1004,CN I,Full Time,F,aacosentino5@aol.com
+99, Joanne M Croke,Nursing,1004,CN I,Part Time,F,CrokeJ@HSS.EDU
+100, Ellena J Crotty,Nursing,1004,CN I,Full Time,F,CrottyE@HSS.EDU
+101, Marilynn E Cruz,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,marilynnc91@gmail.com
+102, Rachel Cruz,Nursing,1022,RN,Per Diem,F,cruzrachelle@gmail.com
+103, Molly A Cullinan,Nursing,1004,CN I,Full Time,F,mcullin1@alumni.nd.edu
+104, Caitlin Cusick,Nursing,1004,CN I,Full Time,F,caitlincusick@gmail.com
+105, Germa Cymonisse,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,g.cymonisse@gmail.com
+106, Faye M Daa,Nursing ,1004,CN I,Full Time,F,DaaF@HSS.EDU
+107, Vera Daka,Nursing,1004,RN ,Full Time,F,dakav@hss.edu
+108, Veronica S Darden,Nursing,2010,PCA,Full Time,F,Veronicadarden28@yahoo.com
+109, Jessica Davalos,Nursing,1022,CN I,Per Diem,F,jnd16943@gmail.com
+110, Woldy David,Nursing,1022,RN - Per Diem,Per Diem,F,DavidW@HSS.EDU
+111, Brittney Davis,Nursing,2024,LPN,Per Diem,F,bdavisny@gmail.com
+112, Janel Davis,Nursing,2010,PCA,Full Time,F,davisja@hss.edu
+113, Jessica De Leon,Nursing,1004,CN I,Full Time,F,jessica.deleon11@gmail.com
+114, Bridgette Del,Nursing,2008,Licensed Practical Nurse,Full Time,F,delb@hss.edu
+115, Eileen Delli Bovi,Nursing,1022P,RN - Per Diem,Per Diem,F,dellibovie@hss.edu
+116, Siobhan C Delvasto,Nursing,2010,Patient Care Assistant,Full Time,F,DelvastoS@HSS.EDU
+117, Arj Demanuel,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,demanuela@hss.edu
+118, Bernadette M Dempsey,Nursing,1004,CN I,Full Time,F,DempseyB@HSS.EDU
+119, Danielle Denis-cethoute,Nursing,2008,LPN,Full Time,F,cethouted@hss.edu
+120, Deena Deo,Nursing,1004,CN I,Full Time,F,deod@hss.edu
+121, Suraiya Deonandan,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,BridgrajS@HSS.EDU
+122, Sheryl G Derizzio,Nursing,1004,CN I,Full Time,F,Derizziosh@HSS.EDU
+123, Sheree DesMouline,Nursing,1004,CN I,Full Time,F,desmoulines@hss.edu
+124, Immarian consef Destajo,Nursing,1004,CN I,Full Time,F,DestajoI@HSS.EDU
+125, Alyssa R Di Giovanni,Nursing,1004,CN I,Full Time,F,alyssa.digiovanni01@yahoo.com
+126, Sergio Diaz,Nursing,1004,CN I,Full Time,M,diazs@hss.edu
+127, Diane Dobranski,Nursing,1022P,RN - Per Diem,Per Diem,F,DobranskiD@HSS.EDU
+128, Vanessa Dobson,Nursing,2024,LPN,Per Diem,F,vanessamdodson@yahoo.com
+129, Vanessa Dodson,Nursing ,2024,LPN,Per Diem,F,vanessamdodson@yahoo.com
+130, Kaitlyn E Donald,Nursing,2036,PCA,Per Diem,F,kdonald@villanova.edu
+131, Laura Donald,Nursing,1004,CN I,Full Time,F,laura.donald01@gmail.com
+132, Fatoumata Dore,Nursing,1004,CN I,Full Time,F,galuteram@hss.edu
+133, Alexandra Doreste,Nursing,1004,CN I,Full Time,F,dorestealex@gmail.com
+134, Tricia C Dougherty,Nursing,1070,Patient Care Director,Full time,F,doughertyt@hss.edu
+135, Rachelle Duliepre,Nursing,2024,LPN,Per Diem,F,rduliepre2@gmail.com
+136, Rosa Dunstan-Baptiste,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,DunstonR@HSS.EDU
+137, Jessica Durand,Nursing ,2024,LPN,Per Diem,F,Jessica.durand0303@gmail.com
+138, Colleen M Dwyer,Nursing,1022,RN - Per Diem,Per Diem,F,DwyerCo@HSS.EDU
+139, Allyson E Ehle,Nursing ,1004,CN I,Full Time,F,EhleA@HSS.EDU
+140, Mohamed Elshehaby,Nursing ,1004,CN I,Full Time,M,melshehaby@gmail.com
+141, Elena Enriquez,Nursing,2024,LPN,Per Diem,F, stewbrat@optonline.net
+142, Danilo P Espiritu,Nursing,1004,CN I,Full Time,M,despiritu20@gmail.com
+143, Marie Feaser,Nursing ,1004,CN I,Full Time,F,marie.feaser@wagner.edu
+144, Timothy C Finck,Nursing ,1004,CN I,Full Time,M,finckt@hss.edu
+145, Erin L Fischer,Nursing,1004,CN I,Full Time,F,erin.lynn.fischer@gmail.com
+146, Ingrid Fishman,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,FishmanI@HSS.EDU
+147, Josephine Fitzgerald,Nursing,1004P,CN I,Full Time,F,FitzgeraldJ@HSS.EDU
+148, Madeline Fletcher,Nursing,1004,CN I,Full Time,F,fletchm@udel.edu
+149, Arnold P Florendo,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,florendoa@hss.edu
+150, Verna Rita Flores,Nursing,2008,LPN,Full Time,F,vflo@rocketmail.com
+151, Jasmine Joy Fordan,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,jasminejoyfordan@gmail.com
+152, Ana D Forman,Nursing,1006,CN III,Full Time,F,FormanA@hss.edu
+153, Gloria M Forrester,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ForresterG@HSS.EDU
+154, Carol D Franco,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,francoca@hss.edu
+155, Nairobi Franco,Nursing,2008,LPN,Full Time,M,nfranco2008@gmail.com
+156, Rosita Fretton,Nursing,1006,CN III,Full Time,F,FrettonR@HSS.EDU
+157, Susan Fuller,Nursing,1022,RN - Per Diem,Per Diem,F,fullers@hss.edu
+158, Emma K Furlone,Nursing,1004,CN I,Full Time,F,ekfurlone@gmail.com
+159, Marie Kathryn K Galutera,Nursing,2010,PCA,Full Time,F,GarconN@HSS.EDU
+160, Christine Galvez,Nursing,2024,LPN,Per Diem,F,citychris16@gmail.com
+161, Susan Gamallo,Nursing,1004,CN I,Full Time,F,gamallos@hss.edu
+162, Flora May C Garcia,Nursing,1004,CN I,Full Time,F,GarciaF@HSS.EDU
+163, Nadine Garcon,Nursing,1004,CN I,Full Time,F,gorskak@hss.edu
+164, Carol Garvey,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,garveyc@hss.edu
+165, Cassandra Gathers,Nursing,1006,CN III,Full Time,F,GathersC@HSS.EDU
+166, Adero M Gaudin,Nursing,1004,CN I,Full Time,F,gaudina@hss.edu
+167, Analyn Gavina-Ebora,Nursing,1004,CN I,Full Time,F,GavinaA@HSS.EDU
+168, Reuven Gelfarb,Nursing,2008,LPN,Full Time,M,reuvem@gelfarb.org
+169, Brittany Genovese,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,brittany.genovese@wagner.edu
+170, Lucille Gil,Nursing,1004,CN I,Full Time,F,gill@hss.edu
+171, Megan A Gilbert,Nursing,1004,CN I,Full time,F,gilbertme@hss.edu
+172, Alexander Gilman,Nursing,1004,CN I,Full Time,Male,alexander.maxwell.gilman@gmail.com
+173, William Goeller,Nursing,2024,LPN,Per Diem,M,nursebill119@gmail.com
+174, Renaye S. Golding,Nursing,2008,LPN,Part Time,F,goldingr@hss.edu
+175, Kenneth Goldsberry,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,GoldsberryK@HSS.EDU
+176, Michelle E Gomez,Nursing,1004,RN,Full Time,F,gomezm@hss.edu
+177, Jessica A Gonzalez,Nursing,1004,CN I,Full Time,F,GonzalezJe@HSS.EDU
+178, Danielle C Gorga,Nursing,1004,CN I,Full Time,F,gorgad@hss.edu
+179, Klaudia Gorska,Nursing,1004,CN I,Full Time,F,HuttonE@HSS.EDU
+180, Samantha J Gosman,Nursing,1022,CN I,Per Diem,F,samanthagosman@gmail.com
+181, Rachel Gottlieb,Nursing ,1004,CN I,Full Time,F,rlgottlieb@yahoo.com
+182, Hannah Graff,Nursing,1004,CN I,Full Time,F,hkgraff@gmail.com
+183, Aja R Green,Nursing,1004,CN I,Full Time,F,greenaj@hss.edu
+184, Donnaree Green,Nursing,2008,LPN,Full Time,F,dnickygreen@gmail.com
+185, Katya Green,Nursing,1004,CN I,Full Time,F,GreenK@HSS.EDU
+186, Ophelia Green,Nursing,2008,LPN,Full Time,F,beautifulopheliagreen@yahoo.com
+187, Mercedes C Greene,Nursing,2008,LPN,Full Time,F,greeneme@hss.edu
+188, Gloria M Gulmatico,Nursing ,1004,CN I,Full Time,F,GulmaticoG@HSS.EDU
+189, Jessica Haller,Nursing,2024,LPN - Per Diem,Full Time,F,fiorej84@gmail.com
+190, Desa Handley,Nursing,2010,Patient Care Assistant,Full time,F,handleydesa@yahoo.com
+191, David Hannon,Nursing,1004,CN I,Full Time,M,dhannonjr@yahoo.com
+192, Malissa L Harding,Nursing,2008,LPN,Full Time,F,hardingm@hss.edu
+193, Brooke Harrison,Nursing ,1004,CNI,Full Time,F,brookeharrison80@gmail.com
+194, Maureen I Harvey,Nursing,2010,Patient Care Assistant,Full time,F,harveym@hss.edu
+195, Margaret D Haversang,Nursing,1004,CN I,Full Time,F,haversangm@hss.edu
+196, Cameka Hines,Nursing,2008,LPN,Full Time,F,camekah@gmail.com
+197, Diana V Hines,Nursing,1004,CN I,Full Time,F,dvh224@nyu.edu
+198, Janet Hoddy,Nursing,1004,CN I,Full Time,F,HoddyJ@HSS.EDU
+199, Nicole Hoffman,Nusing,1070,Patient Care Director,Full Time,F,hoffmann@hss.edu
+200, Jayne Hoffmann,Nusing,1070,Patient Care Director,Full Time,F,HoffmannJ@HSS.EDU 
+201, Tiffany A Holley,Nursing,2008,LPN,Full Time,F,holleyt@hss.edu
+202, Monica Holliday,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,moni0307@gmail.com
+203, Keesha Holmes,Nursing ,1070,Patient Care Director,Full Time,F,holmesk@hss.edu
+204, Jean Honore,Nursing,2010,Patient Care Assistant-Nursing,Part Time,M,honorej@hss.edu
+205, Patricia Horan,Nursing ,1004,CN I,Full Time,F,HoranP@HSS.EDU
+206, Carolyn Howe,Nursing,1004,CN I,Full Time,F,howec@hss.edu
+207, Jimmy J Howell,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,M,jimmyh70@yahoo.com
+208, Jennifer Hudson,Nursing,2024,LPN,Per Diem,F,jlhudson@hotmail.com
+209, Valentina Hurtado-Marquez,Nursing,2024,LPN,Per Diem,F,valentinahurtado@aol.com
+210, Erin Hutton,Nursing,2010,PCA,Full Time,F,JarvisM@HSS.EDU
+211, Raeanne Irwin,Nursing,2008,Licensed Practical Nurse,Part Time,F,irwinr@hss.edu
+212, Janice S Jackson,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,SimpsonJ@HSS.EDU
+213, Khrystina Jackson,Nursing,1006,CN III,Full Time,F,KhrystinaJ@yahoo.com
+214, Ronda D Jackson,Nursing,1004P,CN I,Full Time,F,JacksonRo@HSS.EDU
+215, Penelope T Jacques,Nursing,1004,CN I,Full Time,F,SukalP@HSS.EDU
+216, Janet J James,Nursing,2010,Patient Care Assistant,Full time,F,jamesja@hss.edu
+217, Marie Janzon,Nursing,1004,CN I,Full Time,F,JanzonM@HSS.EDU
+218, Eloise M Jarvis,Nursing,2010,PCA,Full Time,F,KantaraF@HSS.EDU
+219, Patricia Jeng,Nursing,1004,CN I,Full Time,F,pyj211@nyu.edu
+220, Gaelle A Joanis,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,joanisg@hss.edu
+221, Dorna Johnson,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,johnsond@hss.edu
+222, Elaine Johnson,Nursing,2024,LPN,Per Diem,F,elainej5513@yahoo.com
+223, Angie E Jones,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,jonesang@hss.edu
+224, Stacy-Ann Jones,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,jonesst@hss.edu
+225, Tiffany N Jones,Nursing,2010,PCA,Full Time,F,tiffany.jones768@gmail.com
+226, Marcia Julius ,Nursing,2017,PCA,Full Time,F,JuliusM@HSS.EDU
+227, Lindsay Juste,Nursing,2024,LPN,Per Diem,F,justel@hss.edu
+228, Maria Kansy,Nursing,1004,CN I,Full Time,F,kansym@hss.edu
+229, Fanula Karanxha,Nursing,2010,PCA,Full Time,F,fanula.karanxha@gmail.com
+230, Amy R Kaufman,Nursing,1004,CN I,Full Time,F,KaufmanA@HSS.EDU
+231, Ashley M Keegan,Nursing,1004,CN I,Full Time,F,nykeegan@aol.com
+232, Kaitlin A Kelly,Nursing,1004,CN I,Full Time,F,kaitlinkelly91@gmail.com
+233, Kellieshia G Kelly,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,kellieshiakelly@yahoo.com
+234, Imani Kennedy,Nursing,2010,PCA,Full Time,,imanikennedy@aol.com
+235, Chandrawattie D Kewal,Nursing,1004,CN I,Full Time,F,kewalc@hss.edu
+236, Bo Kyung Kim,Nursing,1004,CN I,Full Time,F,bkim110891@gmail.com
+237, Ju Hye Kim,Nursing ,1022,CN I,Per Diem,F,kimjuhye92@hotmail.com
+238, Lisa J Kim,Nursing,1004,CN I,Full Time,F,KimL@HSS.EDU
+239, Kerri Kinsella,Nursing ,1004,CN I,Full Time,F,kinsellakerriann@gmail.com
+240, Colleen Kirkpatrick,Nursing,1004,Clinical Coordinator,Full Time,F,KirkpatrickC@HSS.EDU
+241, Rachel H Kornstein,Nursing,1006,CN III,Full Time,F,KornsteinR@HSS.EDU
+242, Kelly Kusactay,Nursing ,1004,CN I,Full Time,F,KusactayK@HSS.EDU
+243, Kelsey Labo,Nursing,1004,CN I,Full Time,F,kelseylabo@gmail.com
+244, Kyla T Lafond,Nursing,1022,CN I,Per Diem,F,lafondk@hss.edu
+245, Gina Laguerre,Nursing,2008,LPN,Full Time,F,laguerreg@hss.edu
+246, Ashley Laird,Nursing,1004P,CN I,Full Time,F,LairdA@HSS.EDU
+247, Lisa M Lang,Nursing,2008,LPN,Full Time,F,langl@hss.edu
+248, Kathleen Laplace,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,LaPlaceK@hss.edu
+249, Michael J LaPorta,Nursing,1004,CN I,Full Time,M,laportam@hss.edu
+250, Anna Larkin,Nursing,1004,CN I,Full Time,F,larkinan@hss.edu
+251, Gienissa R Larose,Nursing,1004,CN I,Full Time,F,LaroseG@HSS.EDU
+252, Rosa                Lasalandra,Nursing,1004P,CN I,Full Time,F,lasalandrar@hss.edu
+253, Alexandra Laurenzano,Nursing,1004P,CN I,Full Time,F,LaurenzanoA@HSS.EDU
+254, Morgan A Lawson,Nursing,1004,CN I,Full Time,F,morgan.lawson@lindsey.edu
+255, Emily G Ledner,Nursing,1004,CN I,Full Time,F,LednerE@HSS.EDU
+256, Alana Lee,Nursing,2008,LPN,Full Time,F,leeal@hss.edu
+257, Linda Leff,Nusing,1070,Patient Care Director,Full Time,F,LeffL@HSS.EDU 
+258, Alex B Lengle,Nursing,1004,CN I,Full Time,F,LengleA@HSS.EDU
+259, Feria C Leon,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,leonf@hss.edu
+260, Randy J. Lewis,Nursing,2008,LPN ,Full Time,M,lewisra@hss.edu
+261, John Li,Nursing,1004,CN I,Full Time,M,jl8239@nyu.edu
+262, Ma D Limbog,Nursing,1005,CN II,Full Time,F,LimbogM@HSS.EDU
+263, Leticia L Lista,Nursing,1004,CN I,Part Time,F,ListaL@HSS.EDU
+264, Alanna Little,Nursing,1004,CN I,Full Time,F,littlea@hss.edu
+265, Ann Lo Basso,Nusing,1070,"VP, Nursing",Full Time,F,LoBassoA@HSS.EDU 
+266, Tabitha A Lockliaeras,Nursing,2010,Patient Care Assistant-Nursing,Part Time,F,lockliaerasT@HSS.EDU
+267, Elizabeth Lokenauth,Nursing,2010,PCA,Full Time,F,elizabeth.lokenauth@gmail.com
+268, Manuela G LoMedico,Nursing,1004P,CN I,Full Time,F,LoMedicoM@HSS.EDU
+269, Betty Loo,Nursing,1004,CN I,Full Time,F,LooB@HSS.EDU
+270, Michelle Loretta,Nursing ,1004,CN I,Full Time,F,lorettmi@shu.edu
+271, Karina Luna,Nursing,2008,LPN,Full Time,F,kluz1084@gmail.com
+272, Rebecca M Lyons,Nursing ,1004,CN I,Full Time,F,lyonsr@hss.edu
+273, Pia Dolores F Madamba-Ramos,Nusing,1070,Patient Care Director,Full Time,F,madambap@hss.edu
+274, Nancy Maguire,Nursing,2008,LPN,Full Time,F,maguiren@hss.edu
+275, Radha Maharaj,Nursing,2010,Patient Care Assistant,Full time,F,maharajr@hss.edu
+276, Diana Mak,Nursing,1004,CN I,Full Time,F,MakD@HSS.EDU
+277, Luis Malave,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,MalaveL@HSS.EDU
+278, Jyothi Mammen,Nursing,1004,CN I,Full Time,F,mammenj@hss.edu
+279, Sharada Manbodhe,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ManbodheS@HSS.EDU
+280, Kelsey Manley,Nursing,1004,CN I,Full Time,F, kelseyfmanley@gmail.com
+281, Lillieth Manley,Nursing,2008,LPN,Full time,F,manleyl@hss.edu
+282, Eva B Manu,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ManuE@HSS.EDU
+283, Marisa R Maravilla,Nursing,1004,CN I,Full Time,F,MaravillaM@HSS.EDU
+284, Rosa Marchetti,Nursing,1022P,CN I,Per Diem,F,corvinoA@HSS.EDU
+285, Susan Marcote,Nursing,1022,RN - Per Diem,Per Diem,F,marcotes@hss.edu
+286, Pia Marinkovic,Nursing,2008,LPN,Part Time,F,pmarinkovic88@gmail.com
+287, Helen Martinez,Nursing,2008,LPN,Full Time,F,martinezh@hss.edu
+288, Vernier F Massicott,Nursing ,2010,Patient Care Assistant,Full Time,F,MassicotV@HSS.EDU
+289, Averil Matthew,Nursing,1004,CN I,Full Time,F,MatthewA@HSS.EDU
+290, Jacqueline M McAvoy,Nursing,1004,CN I,Full Time,F,mcavoyj@hss.edu
+291, Mallory E McCarthy,Nursing,1004,CN I,Full Time,F,McCarthyM@HSS.EDU
+292, Danielle N McDermott,Nursing,1004,CN I,Full Time,F,sternsd@hss.edu
+293, Diane C McEniry,Nursing,2008,LPN,Full Time,F,Deemc9378@gmail.com
+294, LaKeisha R McFadden,Nursing,2010,PCA,Full Time,F,McFaddenL@HSS.EDU
+295, Dotsilee McFarlane,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,McfarlaneD@HSS.EDU
+296, Kym J. McGillicuddy,Nursing,1022,RN - Per Diem,Per Diem,F,mcgillicuddyk@hss.edu
+297, Barbara McLasky,Nursing ,1004,CN I,Full Time,F,MclaskyB@HSS.EDU
+298, Yvonne C McLaughlin,Nursing,2008,LPN,Full Time,F,mclaughliny@hss.edu
+299, Shenniel Mclean,Nursing,2024,LPN,Per Diem,F,aohneil@gmail.com
+300, Kevin J McManus,Nursing,2036,PCA,Per Diem,M,mcmanusk3@gmail.com
+301, Victoria McMillen,Nursing,2008,LPN,Full Time,,cavedweller519@gmail.com
+302, Melissa McMillon,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,mcmillon.melissa.1@gmail.com
+303, Kristen A McNamara,Nursing,1004,CN I,Full Time,F,McnamaraKr@HSS.EDU
+304, Marie M Medina-Merveille,Nursing,1004,CN I,Full Time,F,MedinaMerveilleM@HSS.EDU
+305, Teresa Meehan,Nursing ,1004,CN I,Part Time,F,MeehanMitchelT@HSS.EDU
+306, Kimberly Meikle,Nursing,2024,LPN,Per Diem,F,meiklek@hss.edu
+307, Zaira Mejia,Nursing,1004,CN I,Full Time,F,mejiaz@hss.edu
+308, Angela R Mena,Nursing,1004,CN I,Full Time,F,BarretoA@HSS.EDU
+309, Cindy E Mendez,Nursing,2008,LPN,Full Time,F,cindye0903@hotmail.com
+310, Comfort A Mensah,Nursing,2010,PCA,Full Time,F,mensahco@hss.edu
+311, Karin Merrins,Nursing,1004,CN I,Full Time,F,kmerrins@gmail.com
+312, Sabine Mesias,Nursing,2008,LPN,Full time,F,mesiass@hss.edu
+313, Cheryllisa Mgbeme,Nursing,2008,LPN,Full Time,F,cmgbeme@gmail.com
+314, Katrina A Miller,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,millerk@hss.edu
+315, Whitney E Miller,Nursing,1004,CN I,Full Time,F,MillerW@HSS.EDU
+316, Dawn M Miller-Salsberry,Nursing,1004,RN,Full Time,F,Miller-SalsberryD@HSS.EDU
+317, Priscilla Minott,Nursing,1004,CN I,Full Time,F,minottp@hss.edu
+318, Milandro Molano,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,MolanoM@HSS.EDU
+319, Susan A. Mollica,Nursing,1004,Clinical Coordinator,Full Time,F,mollicas@hss.edu
+320, Elizabeth Mollison,Nursing,1004,CN I,Full Time,F,mollisone@hss.edu
+321, Lisa M Mondiello,Nursing ,1004,CN I,Full Time,F,mondiellol@hss.edu
+322, Gulbahar Monnan,Nursing ,1004,CN I,Full Time,F,gmonnan@gmail.com
+323, Ronald Monteron,Nusing,1070,Patient Care Director,Full Time,M,monteronr@hss.edu
+324, Shanaz Mooddeen,Nursing,1006,CN III,Full Time,F,MooddeenS@HSS.EDU
+325, Jennifer Moog,Nursing,1004,CN I,Full Time,F,jennifermoog94@gmail.com
+326, Joanna Moore,Nursing,1004P,CN I,Full Time,F,joannam119@gmail.com
+327, Sulma E Moreno,Nursing,1004,CN I,Full Time,F,morenos@hss.edu
+328, Madeline Moreta,Nursing,2010,PCA,Full Time,F,maddielynn4@gmail.com
+329, Natalie Morgan,Nursing,2010,Patient Care Assistant,Full time,F,morgann@hss.edu
+330, Carolina Munoz,Nursing,1004,CN I,Full Time,F,MunozC@HSS.EDU
+331, Melissa Munoz,Nursing,2008,LPN,Full Time,F,munozmeli@yahoo.com
+332, Mary Catherine Murphy,Nursing,1004,CN I,Part Time,F,MurphyMu@HSS.EDU
+333, Tahilees P Murphy,Nursing,1004,CN I,Full Time,F,tahilees.murphy17@gmail.com
+334, Kara A Naus,Nursing,1004,CN I,Full Time,F,nausk@hss.edu
+335, Chito Ndukwu,Nursing ,2010,Patient Care Assistant,Full Time,F,NdukwuC@HSS.EDU
+336, Azuria Nesmith,Nursing,2036,PCA,Per Diem,F,nesmitha@hss.edu
+337, Jared A Newman,Nursing,1004,CN I,Full Time,M,newmanja@hss.edu
+338, Connie Ng,Nursing,1004,CN I,Full Time,F,conniensm2004@yahoo.com
+339, Renee Nicholson,Nursing,1004,CN I,Full Time,F,NicholsonR@HSS.EDU
+340, Kristy L Niitzel,Nursing,1004,CN I,Full Time,F,niitzelk@hss.edu
+341, Rocille R Nino,Nursing,1022,RN - Per Diem,Per Diem,F,songbird_212002@yahoo.com
+342, Kunti Niranjan,Nursing,2010,PCA,Full Time,F,niranjankunti@gmail.com
+343, Malmar M Niyazova,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,NiyazovaM@HSS.EDU
+344, Jenima Noel,Nursing,2010,PCA,Full Time,F,noelj@hss.edu
+345, Marsha A Noel,Nursing,2008,LPN,Part Time,F,Noelm@hss.edu
+346, Kim O'Brien,Nursing,1004P,CN I,Part Time,F,ObrienK@HSS.EDU
+347, Margaret O'Donohue,Nursing,1005,CN II,Full Time,F,ODonohueM@HSS.EDU 
+348, Kelly A Oehm,Nursing,1004,CN I,Full Time,F,oehmk10@gmail.com
+349, Katelyn O'Grady,Nursing,1004P,CN I,Part Time,F,OgradyK@HSS.EDU
+350, Emily A O'Hara,Nursing,1004,CN I,Part Time,F,OHaraE@HSS.EDU 
+351, Sarah O'Hare,Nursing,1005,CN II,Part Time,F,ohares@hss.edu
+352, Viola C Okoroanyanwu,Nursing,1022,RN - Per Diem,Per Diem,F,OkoroanyanwuV@HSS.EDU
+353, Grace Okunbowa,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,OkunbowaG@HSS.EDU
+354, Johanna Olaya,Nursing,2010,PCA,Full Time,F,johannaolaya95@gmail.com
+355, Lidia Orbegoso,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,OrbegosoL@HSS.EDU
+356, Agnes Pablo,Nursing,2024,LPN - Per Diem,Per Diem,F,agnespablo18@gmail.com
+357, Michael A Palatano,Nursing,1004,CN I,Full Time,M,palatanom@hss.edu
+358, Erica S Pally,Nursing,1004,CN I,Full Time,F,PallyE@HSS.EDU
+359, Sofya Panteleimonov,Nursing,2008,LPN,Full Time,F,sofya.panteleimonov@gmail.com
+360, Debra Paramonte,Nursing,1004,CN I,Full Time,F,debra.paramonte@gmail.com
+361, Maria Josette M Parcon,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,MabasaM@HSS.EDU
+362, Kathleen Joy Parreno,Nursing,1004,CN I,Full Time,F,parrenok@HSS.EDU
+363, Maria J Parsudial,Nursing,1004,CN I,Part Time,F,ParsudialM@HSS.EDU
+364, Grace M Pas-Plaza,Nursing,1022,RN - Per Diem,Per Diem,F,PasPlazaG@HSS.EDU
+365, Natalie C Paul,Nursing,2008,LPN,Full Time,F,natalie.c.paul@gmail.com
+366, Shaquenda Peay,Nursing,2010,PCA,Full Time,F,shaquendapeay@gmail.com
+367, Lulin Peng,Nursing,1004,CN I,Full Time,Female,lxp148@case.edu
+368, Shiaquana Pequette,Nursing,2010,PCA,Full Time,F,qpequette@yahoo.com
+369, Rosanna Perez,Nursing ,2010,Patient Care Assistant,Full Time,F,PerezRos@HSS.EDU
+370, Mohanie Persaud,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,persaudm@hss.edu
+371, Helga Petschauer,Nursing,1004,CN I,Full Time,F,petschauerh@hss.edu
+372, Gerald Pimentel,Nursing,1005,CN II,Full Time,F,pimentalg@hss.edu
+373, Michelle C Pizarro,Nursing,2036,PCA,Per Diem,F,m.carolyn.p08@gmail.com
+374, Rosanna Poblador,Nursing,1004,CN I,Full Time,F,PobladorR@HSS.EDU
+375, Mishi C Popovich,Nursing,1004,CN I,Full Time,M,mishipopovich@yahoo.com
+376, Sharon A Porter,Nursing ,2010,Patient Care Assistant,Full Time,F,PorterS@HSS.EDU
+377, Kara N Powers,Nursing,2010,PCA,Full Time,F,kpowers16@fordham.edu
+378, Caroline Pruski,Nursing,1004,CN I,Full Time,F,pruskic@hss.edu
+379, Alice T Quinn,Nursing,1004P,CN I,Full Time,F,QuinnA@HSS.EDU
+380, Norma Quiocho,Nursing,2008,LPN,Full Time,F,quiochon@hss.edu
+381, Ann M Rakowicz,Nursing,1005,CN II,Full time,F,rakowicza@hss.edu
+382, Lorna Ranger,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,rangerl@hss.edu
+383, Aquanna Ratcliff,Nursing,1004,CN I,Full Time,F,aquanna.smith@gmail.com
+384, Julia Rauch,Nursing,1004,CN I,Full Time,F,RauchJ@HSS.EDU
+385, James Reed,Nursing,2008,LPN,Full Time,M,spyq23936@yahoo.com
+386, Maria C Remata,Nursing ,1006,CN III,Full Time,F,RemataM@HSS.EDU
+387, Emanuel Remilus,Nursing,1022P,RN - Per Diem,Per Diem,M,eremilus@gmail.com
+388, Rhea A Rey,Nursing,1004,CN I,Full time,F,reyr@hss.edu
+389, Krystel Theress D Reyes,Nursing,1004,CN I,Full Time,F,telreyes@yahoo.com
+390, Julita Reyes-canu,Nursing,1005,CN II,Full time,F,reyescanu@hss.edu
+391, D'Andra N Richards,Nursing,1004,CN I,Full Time,F,DAndraNRich@gmail.com
+392, Daliah Ricketts,Nursing,2024,LPN,Per Diem,F,daliahchance@yahoo.com
+393, Allison F Rivera,Nursing,1004,CN I,Full Time,F,riveraall@hss.edu
+394, Jennifer A Rizzi,Nursing,1004,CN I,Full Time,F,jenniferarizzi@gmail.com
+395, Stephanie V Robertson,Nursing,1004P,CN I,Full Time,F,RobertsonS@HSS.EDU
+396, Astley A Robinson,Nursing,1004,CN I,Full Time,F,robinsona@hss.edu
+397, Iris Robles,Nursing,1004,CN I,Full Time,F,Irobles.student@mountsaintvincent.edu
+398, Robert Robles,Nursing,2008,LPN,Full Time,M,no7ginebra@icloud.com
+399, Veronica Robles,Nursing,2024,LPN,Per Diem,F,veeandrearob@yahoo.com
+400, Margarita Rodriguez,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,rodriguezma@hss.edu
+401, David Rojas,Nursing,1004,CN I,Full Time,M,davidro87@gmail.com
+402, Angela Romeo,Nursing,1004,CN I,Full Time,F,a.romeo83@yahoo.com
+403, Julianna Rosato,Nursing,1004,CN I,Full Time,F,JuliRosato@gmail.com
+404, Emilia Rosca,Nursing,1004,CN I,Full TIme,F,roscae@hss.edu
+405, Felicia Rosenfeld,Nursing,1004,CN I,Full Time,F,RosenfeldF@HSS.EDU
+406, Curlene A Rowley,Nursing,2036,Patient Care Asst - Per Diem,Per Diem,F,rowleyc@hss.edu
+407, Kareesha S. Roy,Nursing,2008,LPN,Part Time,F,royk@hss.edu
+408, Timothy Rupp,Nursing,1004,CN I,Full Time,F,totarom@hss.edu
+409, Sonia Salvador,Nursing,2008,LPN,Full Time,F,sonia.salvador80@hotmail.com
+410, Jonathan Samuel,Nursing ,2036,Patient Care Assistant,Per Diem,M,samuelj@hss.edu
+411, Khadija A Samuel,Nursing,1004,CN I,Full Time,F,khadijasamuel94@gmail.com
+412, Laedi Marie S San Luis,Nursing ,1004,CN I,Full Time,F,laedimarie.sanluis@yahoo.com
+413, Charmaine C. Sanchez,Nursing,2008,LPN ,Part Time,F,sanchezc@hss.edu
+414, Keyona D Sanders,Nursing ,1004,CN I,Full Time,F,keyona.sanders3@gmail.com
+415, Diana Hyacinth C Santiago,Nursing,1004,CNI,Full Time,F,hyacruz@gmail.com
+416, Tammy L Savage,Nursing,1004,CN I,Full Time,M,tr1360@nyu.edu
+417, Maria Sayson,Nursing ,1004,CN I,Full Time,F,SaysonM@HSS.EDU
+418, Marissa R Scheiner,Nursing,1004,CN I,Full Time,F,mrs703@nyu.edu
+419, David W Schlageter,Nursing ,1004,CN II ,Full Time,M,SchlageterD@HSS.EDU
+420, Auleen L Scott,Nursing,2010,PCA,Full Time,F,ScottAu@HSS.EDU
+421, Rawnell Searles,Nursing,2008,LPN,Full Time,M,rsearles1@yahoo.com
+422, Indira Seeraj,Nursing ,2010,Patient Care Assistant,Full Time,F,SeerajI@HSS.EDU
+423, Ashley N Sells,Nursing,1022P,CN I,Per Diem,F,ansells77@gmail.com
+424, Lilianne Nichol M Sembrano,Nursing,1004,CN I,Full time,F,sembranol@hss.edu
+425, Anne Serrano,Nursing,2008,LPN,Full Time,F,aramos801@yahoo.com
+426, Joel Serrata Checo,Nursing,2010,PCA,Full Time,M,joel.j.serrata@gmail.com
+427, Mame A Serwah-Boah,Nursing,1004,CN I,Full Time,M,thomass@hss.edu
+428, Sharon Shallow,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,ShallowS@HSS.EDU
+429, Natasha Sharma,Nursing,2008,LPN,Part time,F,sharma5287@hotmail.com
+430, Keisha Shaw,Nursing,2009,LPN,Per Diem,F,keshashaw89@gmail.com 
+431, Kurl P Shaw,Nursing,2008,LPN,Full Time,F,shawk@hss.edu
+432, Tenzin K Sherpa,Nursing ,1004,CN I,Part Time,F,sherpat@hss.edu
+433, Bryan Siegel,Nursing,2008,LPN,Full Time,M,NYRF789@GMAIL.COM
+434, Christine Silvera-Finney,Nursing,1004,CN I,Full Time,F,SilveraC@HSS.EDU
+435, Diane K Simmons,Nursing,2010,PCA,Full Time,F,dianesimmons42@gmail.com
+436, Angela Skyers Duncan,Nursing,4028,Medical Assistant,Full Time,F,skyersa@hss.edu
+437, Richard Slote,Nursing,1005P,CN II,Full Time,M,SloteR@HSS.EDU
+438, Jessica Small,Nursing,1004,CN I,Full Time,F,mame.boah@gmail.com
+439, Jefferson Sobejana,Nursing,2008,LPN,Full Time,M,jonjon.sobejana@gmail.com
+440, Kristen Socci,Nursing,1004,CN I,Full Time,F,jsmall2@villanova.edu
+441, Ryanne J Soller,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,SavageT@HSS.EDU
+442, Colleen Sotiryadis,Nursing,1004,CN I,Full Time,F,soccik@hss.edu
+443, Kanjnaporn Soto,Nursing,2010,PCA,Full Time,F,SotoK@HSS.EDU
+444, Michael Spagnuoli,Nursing,2008,LPN,Full Time,M,maspagnuolilpn@gmail.com
+445, Eliadia Spellman,Nursing,2010,PCA,Full Time,F,spellmane@hss.edu
+446, Alicia B St. Clair,Nursing,1004,CN I,Full Time,F,stclaira@hss.edu
+447, Latoya Stanford,Nursing,2008,LPN,Full Time,F,stanfordlatoya12@gmail.com
+448, Shari Steele,Nursing,2008,LPN,Full Time,F,ssteele62@yahoo.com
+449, Molly A Stoddart,Nursing,1004,CN I,Full Time,F,StoddartM@HSS.EDU
+450, Cassidy Straniero,Nursing,1004,CN I,Full Time,F,stranieroc@hss.edu
+451, Unnikrishnan S Sudhakaran,Nursing,1004,CN I,Full Time,M,SudhakaranU@HSS.EDU
+452, Esther D Suh,Nursing,1004,CN I,Full Time,F,esdb223@gmail.com
+453, Siobhan M Sullivan,Nursing ,1004,CN I,Full Time,F,ssulliv08@gmail.com
+454, Tashana Swaby,Nursing,2024,LPN,Per Diem,F,tashb87@yahoo.com
+455, Marika Swardh,Nursing,1022,RN - Per Diem,Per Diem,F,swardhm@hss.edu
+456, Angjelina Syku,Nursing ,2008,LPN,Full Time,F,sykani74@gmail.com
+457, Kristen A Taibbi,Nursing,1004,CN I,Full Time,F,taibbik@hss.edu
+458, Jennifer N Talevski,Nursing,1004,CN I,Full Time,M,SollerR@HSS.EDU
+459, Paul N Tam,Nursing ,2010,Patient Care Assistant,Full Time,M,TamP@HSS.EDU
+460, Vladimir Tarnopolskiy,Nursing,1004,CN I,Full Time,M,TarnopolskiyV@HSS.EDU
+461, Seethal S Thomas,Nursing,1005,CN II,Full Time,F,sotiryadisc@hss.edu
+462, Shyh Rong Tien,Nursing,2008,LPN,Full Time,F,ktien73@gmail.com
+463, Vonetta Tillman,Nursing,2024,LPN,Per Diem,F,nursevee76@gmail.com
+464, Daniela Tinca,Nursing ,1004,CN I,Full Time,F,jentalevski@gmail.com
+465, Louise-Margaret C Tomas,Nursing ,1004,CN I,Full Time,F,tomasl@hss.edu
+466, Carol Torres,Nursing,1006,CN III,Full Time,F,TincaD@HSS.EDU
+467, Melissa Torres,Nursing,2024,LPN- Per Diem,Per Diem,F,lilmis1183@aol.com
+468, Maria M Torres-Jankowski,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,torresc@hss.edu
+469, Megan Totaro,Nursing,1005,CN II,Full Time,F,TorresM@HSS.EDU
+470, Stephany Trinidad,Nursing,2024,LPN,Per Diem,F,sgutierrezp96@gmail.com
+471, Cady Tronolone,Nursing,1004,CN I,Full Time,F,cadytron02@aol.com
+472, Stacy A Truick,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,truicks@hss.edu
+473, Alyssa Tsistinas,Nursing,1004,CN I,Full Time,F,alyssatsistinas@gmail.com
+474, Lidia S Tskhay,Nursing,1004,CN III,Full Time,F,TskhayL@HSS.EDU
+475, Kemberly M Tugade,Nursing,1004,CN I,Full Time,F,TugadeK@HSS.EDU
+476, Paris Turk,Nursing,2010,Patient Care Assistant,Full time,F,pchanelturk@gmail.com
+477, Jeanifer C Uwaechie,Nursing,2010,PCA,Full Time,F,uwaechje@gmail.com
+478, Evelyn Valenzuela,Nursing ,1004,CN I,Full Time,F,ValenzuelaE@HSS.EDU
+479, Alercia M Valerio,Nursing,1004,CN I,Full Time,F,alerciamvalerio@yahoo.com
+480, Lissette Valestin,Nursing,2008,LPN,Full Time,F,valestinl@hss.edu
+481, Irma Van Cooten,Nursing ,2010,Patient Care Assistant,Full Time,F,VanCootenI@HSS.EDU
+482, Eileen Vance,Nursing,1005P,CN II,Full Time,F,VanceEi@HSS.EDU
+483, Esther Vargas,Nursing,2010,PCA,Full Time,F,vargase@hss.edu
+484, Tom Varughese,Nursing,1004,CN I,Full Time,M,tomvar314@hotmail.com
+485, Kimone D Vassell,Nursing,2010,PCA,Full Time,F,kimonebuttah10@gmail.com
+486, Anabel Velasquez,Nursing,2008,LPN,Part Time,F,anabelvelasquez1@aol.com
+487, Mar Vincent A Veloso,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,velosom@hss.edu
+488, Liana G Vicari,Nursing,1004,CN I,Full Time,F,lgvicari14@gmail.com
+489, Eler C Villanueva,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,VillanuevaE@HSS.EDU
+490, Nicole M Villanueva,Nursing,2010,Patient Care Assistant-Nursing,Part Time,F,nmariev07@gmail.com
+491, Maria Villarino,Nursing,2008,LPN,Full Time,F,mevillarino92@yahoo.com
+492, Nicole L Voorhis,Nursing,1004,CN I,Full Time,F,17voorhis@cua.edu
+493, Yelena Voroshylo,Nursing,1004,CN I,Full Time,F,VoroshyloY@HSS.EDU
+494, Charlotte C Wahlquist,Nursing,1004,CN I,Full Time,F,WahlquistC@HSS.EDU
+495, Sarah E Waldman,Nursing,1004,CN I,Full Time,F,swaldmanrn@gmail.com
+496, Jigme Wangyal,Nursing,2008,LPN,Full Time,F,wangyalj@hss.edu
+497, Rhoda Warren,Nursing,1004,CN I,Full Time,F,warrenrh@hss.edu
+498, Sharon Washington,Nursing,4028,Medical Assistant,Full Time,F,washingtons@hss.edu
+499, Maura Watson,Nusing,1070,Patient Care Director,Full Time,F,WatsonM@HSS.EDU
+500, Ann-marie Webb,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,webba@hss.edu
+501, Loni L Weinman,Nursing,1004,CN I,Full Time,M,weinmanl@hss.edu
+502, Rebecca B Weinstein,Nursing,1004,CN I,Full Time,F,WeinsteinR@HSS.EDU
+503, Bridgette West,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,westb@hss.edu
+504, Claire Westerfield,Nursing,1004,CN I,Full Time,F,cawesterfield32@gmail.com
+505, David Western,Nursing,2008,LPN,Full Time,M,westernd@hss.edu
+506, Mary Wieboldt,Nursing,1004P,CN I,Full Time,F,WieboldtM@HSS.EDU
+507, Julia H Wilk,Nursing,1004,CN I,Full Time,F,wilkj@hss.edu
+508, Renee Wilkinson,Nursing,2008,LPN,Full Time,F,wilkinsonrw2@gmail.com
+509, Rachelle Williams,Nursing,2008,LPN,Full time,F,williamsra@hss.edu
+510, Regena S Williams,Nursing,2008,LPN,Full Time,F,regenawilliams0731@gmail.com
+511, Stephanie I Williams,Nursing ,2036,Patient Care Assistant,Per Diem,F,stephh8780@yahoo.com
+512, Ludis Williams-Mitchell,Nursing,2008,LPN,Full time,F,williamsmitchelll@hss.edu
+513, Elizabeth A Wilson,Nursing,2010,Patient Care Assistant-Nursing,Full Time,F,wilsone@hss.edu
+514, Danielle N Wirshup,Nursing,1004P,CN I,Full Time,F,WirshupD@HSS.EDU
+515, Eric Witkowski,Nursing,1004,CN I,Full Time,M,witkowskie@hss.edu
+516, Nicole C Wofford,Nursing,2024,LPN,Per Diem,F,woffordn@hss.edu
+517, Beth Wong,Nursing,1004P,CN I,Full Time,F,bwon09@gmail.com
+518, Jason Wong,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,jaywong1086@gmail.com
+519, Alexandra Woodruff,Nursing,1004,CN I,Full Time,Female,alexandra.m.woodruff@gmail.com
+520, Donnice Wortham,Nursing,2010,PCA,Full Time,F,donnicewortham@yahoo.com
+521, Annie Xiao,Nursing ,2036,Patient Care Assistant,Per Diem,F,anniexiao12@gmail.com
+522, Hayden S Yatco,Nursing,2010,Patient Care Asst ,Part Time,M,yatcoh@hss.edu
+523, Kelly Yip,Nursing,1004,CN I,Full Time,F,kellyyyip@gmail.com
+524, Albert Zamayla,Nursing,2010,Patient Care Assistant-Nursing,Full Time,M,zamaylaa@hss.edu
+525, Christina Zayas,Nursing,2008,LPN,Part Time,F,cmz070586@gmail.com
+526, Gabriela Zea,Nursing,1004,RN- Clinic/Community Outreach,Full Time,F,zeag@hss.edu
+527, Karina Zurita,Nursing,2010,Patient Care Assistant,Full time,F,zuritak@hss.edu

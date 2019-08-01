@@ -1,0 +1,4 @@
+create a workingmodule
+of express-fileupload
+
+research BigCommerce api

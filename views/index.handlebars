@@ -1,0 +1,106 @@
+<div class="jumbotron d-flex justify-content-center align-items-center">
+    <h2 class="display-2">HSS Users</h2>
+</div>
+<div class="d-flex justify-content-center"><a href="#myTable2">Existing Users</a></div>
+<div class="container-fluid mb-5 shadow">
+    <div class="row">
+        <div class="col-lg-6">
+            <h4 class="p-3 text-secondary">New Users</h4>
+        </div>
+        <div class="col-lg-6 d-flex justify-content-end align-items-center">
+            <input id="myInput" type="text" placeholder="Search..."> 
+        </div>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Full Name</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Department</th>
+                <th scope="col">Job Code</th>
+                <th scope="col">Job Description</th>
+                <th scope="col">FTE</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Email</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody id="myTable">
+            {{#each newperson}}
+            <tr>
+                <th scope="row">{{FullName}}</th>
+                <td>{{FirstName}}</td>
+                <td>{{LastName}}</td>
+                <td>{{DepartmentDesc}}</td>
+                <td>{{JobCode}}</td>
+                <td>{{JobCodeDescription}}</td>
+                <td>{{FTE}}</td>
+                <td>{{Gender}}</td>
+                <td>{{Email}}</td>
+                <td><button class="add"                 
+                data-FullName="{{FullName}}"
+                data-FirstName="{{FirstName}}"
+                data-LastName="{{LastName}}"
+                data-DepartmentDesc="{{DepartmentDesc}}"
+                data-JobCode="{{JobCode}}"
+                data-JobCodeDescription="{{JobCodeDescription}}"
+                data-FTE="{{FTE}}"
+                data-Gender="{{Gender}}"
+                data-Email="{{Email}}">
+                +</button>
+                </td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>
+<div class="container-fluid mb-5 shadow">
+    <div class="row">
+        <div class="col-lg-6">
+            <h4 class="p-3 text-secondary">Existing Users</h4>
+        </div>
+        <div class="col-lg-6 d-flex justify-content-end align-items-center">
+            <input id="myInput2" type="text" placeholder="Search..."> 
+        </div>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Full Name</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Department</th>
+                <th scope="col">Job Code</th>
+                <th scope="col">Job Description</th>
+                <th scope="col">FTE</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Email</th>
+                {{!-- <th scope="col">Action</th> --}}
+            </tr>
+        </thead>
+        <tbody id="myTable2">
+            {{#each upperson}}
+            <tr>
+                <th scope="row">{{FullName}}</th>
+                <td>{{FirstName}}</td>
+                <td>{{LastName}}</td>
+                <td>{{DepartmentDesc}}</td>
+                <td>{{JobCode}}</td>
+                <td>{{JobCodeDescription}}</td>
+                <td>{{FTE}}</td>
+                <td>{{Gender}}</td>
+                <td>{{Email}}</td>
+                <td><button class="update hide"                 
+                data-name="{{FullName}}"
+                data-department="{{DepartmentDesc}}"
+                data-jobcode="{{JobCode}}"
+                data-jobdesc="{{JobCodeDescription}}"
+                data-fte="{{FTE}}"
+                data-gender="{{Gender}}"
+                data-email="{{Email}}">✎</button></td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>
