@@ -135,6 +135,21 @@ module.exports = (app) => {
         })
     })
 
+    app.get('/users', (req,res)=>{
+        new sql.ConnectionPool(config).connect()
+        .then(pool => {
+            return pool.query('select * from dbo.zzUserSite_NYHSS1temp')
+                .then(results => {
+                    let renderData = {
+                        users:results.recordset
+                    }
+                    // newUsers(newArray);
+                    res.render('users', renderData)
+                    // res.json(results.recordset);
+                })
+        })
+    })
+
     //post upload function definition
     let search = function (dbArray, csvArray, newUpdateArray) {
         //loop through dbdata array and get its email to see if it matches with csv
