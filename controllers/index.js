@@ -24,8 +24,14 @@ module.exports = (app) => {
         user: process.env.DB_USER,
         password: process.env.DB_PASS,
         server: process.env.DB_HOST,
-        database: 'Web'
+        database: 'Web',
+        pool: {
+            max: 10,
+            min: 0,
+            idleTimeoutMillis: 30000
+        }
     }
+
 
     app.use(upload())
 
@@ -77,43 +83,24 @@ module.exports = (app) => {
                     }
                 })
                 .on('end', () => {
+                    new sql.ConnectionPool(config).connect()
+                        .then(pool => {
+                            return pool.query('select * from dbo.zzUserSite_NYHSS1temp')
+                                .then(results => {
+                                    console.log(results);
+                                    let newArray = dataArray;
+                                    let updateArray = [];
 
-
-                    sql.connect(config, err=>{
-                        if (err) throw err;
-
-                        new sql.Request().query('select * from dbo.zzUserSite_NYHSS1temp', (err,results)=>{
-                            console.log(results);
-                            let newArray = dataArray;
-                            let updateArray = [];
-    
-                            let renderData = {
-                                upperson: updateArray,
-                                newperson: newArray
-                            }
-                            search(results.recordset, dataArray, updateArray);
-                            // newUsers(newArray);
-                            res.render('index', renderData)
+                                    let renderData = {
+                                        upperson: updateArray,
+                                        newperson: newArray
+                                    }
+                                    search(results.recordset, dataArray, updateArray);
+                                    // newUsers(newArray);
+                                    res.render('index', renderData)
+                                    // res.json(results.recordset);
+                                })
                         })
-                    })
-
-                    //get the data from database and store in variable
-                    // connection.query('SELECT * FROM zzusersite_nyhss1temp', (err, results) => {
-                    //     if (err) throw err;
-                    //     //check to see if the uploaded data record exists against dbData
-                    //     //if true: then push it in toUpdate Array
-                    //     //else: push it in to newUser Array
-                    //     let newArray = dataArray;
-                    //     let updateArray = [];
-
-                    //     let renderData = {
-                    //         upperson: updateArray,
-                    //         newperson: newArray
-                    //     }
-                    //     search(results, dataArray, updateArray);
-                    //     // newUsers(newArray);
-                    //     res.render('index', renderData)
-                    // })
                 })
         })
     });
@@ -132,10 +119,19 @@ module.exports = (app) => {
     app.post('/users/add', (req, res) => {
         let data = req.body;
         console.log(data);
-        connection.query('INSERT INTO zzusersite_nyhss1temp SET ?', data, function (err, results) {
-            if (err) throw err;
-            console.log(results);
-            return res.status(200);
+        const connection = new sql.ConnectionPool(config,function(err){
+            const transaction = new sql.Transaction(connection);
+            transaction.begin(err=>{
+                if (err) console.log(err);
+                const request = new sql.Request(transaction)
+                request.query(`INSERT INTO [dbo].[zzUserSite_NYHSS1temp] ([FullName],[FirstName],[LastName],[DepartmentDesc],[JobCode],[JobCodeDescription],[FTE],[Gender],[Email]) 
+                VALUES ('${data.FullName.trim()}','${data.FirstName.trim()}','${data.LastName.trim()}','${data.DepartmentDesc.trim()}','${data.JobCode.trim()}','${data.JobCodeDescription.trim()}','${data.FTE.trim()}','${data.Gender.trim()}','${data.Email.trim()}')`,(err,result)=>{
+                    if (err) console.log(err);
+                    transaction.commit(err=>{
+                        console.log('Transaction committed.')
+                    })
+                })
+            })
         })
     })
 
@@ -145,11 +141,15 @@ module.exports = (app) => {
         for (let i = 0; i < dbArray.length; i++) {
             //while looping through dbdata array loop through csv data and see if value matches
             for (let j = 0; j < csvArray.length; j++) {
+                //if the value matches with dbarray element's email then
                 if (csvArray[j].Email.trim() === dbArray[i].Email.trim()) {
+                    //push the csv array record to new updateArray
                     newUpdateArray.push(csvArray[j])
-                    // console.log(newUpdateArray);
+                    //if the length is greater than 0 then
                     if (csvArray.length > 0) {
+                        //remove that one element at index j
                         csvArray.splice(j, 1);
+                        //unless array length is 0 then empty the array
                     } else if (csv.Array.length === 0) {
                         csvArray.pop();
                     }
@@ -160,6 +160,4 @@ module.exports = (app) => {
 
         }
     }
-
-
 }
