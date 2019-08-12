@@ -27,7 +27,7 @@ $(document).ready(function () {
 
 
     });
-
+    
     $('.add').on('click', function () {
         let data = {
             FullName: $(this).data('fullname'),
@@ -50,7 +50,30 @@ $(document).ready(function () {
             .attr('disabled', true);
 
     })
+    $('.delete').on('click', function () {
+        let data = {
+            FullName: $(this).data('fullname'),
+            FirstName: $(this).data('firstname'),
+            LastName: $(this).data('lastname'),
+            DepartmentDesc: 'Nursing',
+            JobCode: $(this).data('jobcode'),
+            JobCodeDescription: $(this).data('jobcodedescription'),
+            FTE: $(this).data('fte'),
+            Gender: $(this).data('gender'),
+            Email: $(this).data('email'),
+        };
+        console.log(data);
+        $.ajax({
+            method: 'delete',
+            url: '/users/',
+            data: data
+        })
+        $(this).html('done')
+            .attr('disabled', true);
 
+    })
+    
+    //Filter table to find the row that matches the value
     $("#myInput").on("keyup", function () {
         var value = $(this).val().toLowerCase();
         $("#myTable tr").filter(function () {

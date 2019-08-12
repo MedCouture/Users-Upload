@@ -150,6 +150,10 @@ module.exports = (app) => {
         })
     })
 
+    app.delete('/users', (req,res)=>{
+        console.log(req.body)
+    })
+
     //post upload function definition
     let search = function (dbArray, csvArray, newUpdateArray) {
         //loop through dbdata array and get its email to see if it matches with csv
