@@ -4,7 +4,7 @@ const exphbs = require('express-handlebars');
 const controller = require('./controllers/index')
 const app = express();
 const upload = require('express-fileupload');
-const PORT = 3000;
+const PORT = 3000 || process.env.PORT;
 
 app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');

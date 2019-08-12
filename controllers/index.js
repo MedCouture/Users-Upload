@@ -12,13 +12,13 @@ const sql = require('mssql');
 
 module.exports = (app) => {
 
-    var connection = mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: 'root',
-        port: '3306',
-        database: 'testdb'
-    })
+    // var connection = mysql.createConnection({
+    //     host: 'localhost',
+    //     user: 'root',
+    //     password: 'root',
+    //     port: '3306',
+    //     database: 'testdb'
+    // })
 
     const config = {
         user: process.env.DB_USER,
