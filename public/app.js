@@ -6,9 +6,6 @@ $(document).ready(function () {
 
     })
     
-
-
-
     $('.update').on('click', function () {
 
         let url = $(this).data('email');
@@ -64,12 +61,12 @@ $(document).ready(function () {
         };
         console.log(data);
         $.ajax({
-            method: 'delete',
+            method: 'DELETE',
             url: '/users/',
             data: data
         })
-        $(this).html('done')
-            .attr('disabled', true);
+        $(this).html('deleted')
+               .attr('disabled', true);
 
     })
     

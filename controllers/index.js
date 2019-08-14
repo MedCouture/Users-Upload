@@ -12,14 +12,6 @@ const sql = require('mssql');
 
 module.exports = (app) => {
 
-    // var connection = mysql.createConnection({
-    //     host: 'localhost',
-    //     user: 'root',
-    //     password: 'root',
-    //     port: '3306',
-    //     database: 'testdb'
-    // })
-
     const config = {
         user: process.env.DB_USER,
         password: process.env.DB_PASS,
@@ -85,7 +77,7 @@ module.exports = (app) => {
                 .on('end', () => {
                     new sql.ConnectionPool(config).connect()
                         .then(pool => {
-                            return pool.query('select * from dbo.zzUserSite_NYHSS1temp')
+                            return pool.query('select * from dbo.zzUserSite_NYHSS1')
                                 .then(results => {
                                     console.log(results);
                                     let newArray = dataArray;
@@ -105,17 +97,6 @@ module.exports = (app) => {
         })
     });
 
-    app.put('/users/:email', (req, res) => {
-        let email = req.params.email;
-        let fte = req.body.fte;
-        console.log(email)
-        console.log(fte)
-        connection.query(`UPDATE zzusersite_nyhss1temp SET fte = ? WHERE email =?`, [fte, email], function (err, results, fields) {
-            if (err) throw err;
-            console.log(results);
-        })
-    })
-
     app.post('/users/add', (req, res) => {
         let data = req.body;
         console.log(data);
@@ -129,6 +110,24 @@ module.exports = (app) => {
                     if (err) console.log(err);
                     transaction.commit(err=>{
                         console.log('Transaction committed.')
+                    })
+                })
+            })
+        })
+    })
+
+    app.delete('/users/', (req, res) => {
+        let data = req.body;
+        console.log(data);
+        const connection = new sql.ConnectionPool(config,function(err){
+            const transaction = new sql.Transaction(connection);
+            transaction.begin(err=>{
+                if (err) console.log(err);
+                const request = new sql.Request(transaction)
+                request.query(`DELETE FROM [dbo].[zzUserSite_NYHSS1temp] WHERE [Email]='${data.Email}'`,(err,result)=>{
+                    if (err) console.log(err);
+                    transaction.commit(err=>{
+                        console.log(`User with ${data.Email} email address has been deleted.`)
                     })
                 })
             })
@@ -150,9 +149,9 @@ module.exports = (app) => {
         })
     })
 
-    app.delete('/users', (req,res)=>{
-        console.log(req.body)
-    })
+    // app.delete('/users', (req,res)=>{
+    //     console.log(req.body)
+    // })
 
     //post upload function definition
     let search = function (dbArray, csvArray, newUpdateArray) {
@@ -161,7 +160,7 @@ module.exports = (app) => {
             //while looping through dbdata array loop through csv data and see if value matches
             for (let j = 0; j < csvArray.length; j++) {
                 //if the value matches with dbarray element's email then
-                if (csvArray[j].Email.trim() === dbArray[i].Email.trim()) {
+                if (csvArray[j].Email.toLowerCase().replace('?','').replace('\n','').replace('\r','').replace('\t','').trim() === dbArray[i].Email.toLowerCase().replace('?','').replace('\n','').replace('\r','').replace('\t','').trim()) {
                     //push the csv array record to new updateArray
                     newUpdateArray.push(csvArray[j])
                     //if the length is greater than 0 then
