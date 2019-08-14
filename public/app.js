@@ -1,11 +1,11 @@
 $(document).ready(function () {
 
-    $('#file').on('change', function(){
-        if($('#file').val().length > 0)
-        $('#upload').removeAttr('disabled')
+    $('#file').on('change', function () {
+        if ($('#file').val().length > 0)
+            $('#upload').removeAttr('disabled')
 
     })
-    
+
     $('.update').on('click', function () {
 
         let url = $(this).data('email');
@@ -21,10 +21,8 @@ $(document).ready(function () {
         })
         $(this).text('done')
             .attr('disabled', true);
-
-
     });
-    
+
     $('.add').on('click', function () {
         let data = {
             FullName: $(this).data('fullname'),
@@ -66,10 +64,10 @@ $(document).ready(function () {
             data: data
         })
         $(this).html('deleted')
-               .attr('disabled', true);
+            .attr('disabled', true);
 
     })
-    
+
     //Filter table to find the row that matches the value
     $("#myInput").on("keyup", function () {
         var value = $(this).val().toLowerCase();
